@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Back-end",
+    "icon": "⚙️",
+    "skills": ["C#", ".NET 6/8", "ASP.NET Core", "Entity Framework Core", "ASP.NET Framework 4.8"]
+  },
+  {
+    "category": "Front-end",
+    "icon": "🖥️",
+    "skills": ["Vue.js", "Angular", "JavaScript", "TypeScript", "HTML", "CSS/SCSS"]
+  },
+  {
+    "category": "Banco de Dados",
+    "icon": "🗄️",
+    "skills": ["SQL Server", "PostgreSQL", "Queries complexas", "Stored Procedures", "Otimização de índices"]
+  },
+  {
+    "category": "APIs & Segurança",
+    "icon": "🔐",
+    "skills": ["REST API", "JWT", "AES-256", "HMAC-SHA256", "Swagger / OpenAPI"]
+  },
+  {
+    "category": "Arquitetura",
+    "icon": "🏗️",
+    "skills": ["Clean Architecture", "MVC", "MVVM", "Repository Pattern", "Factory Pattern"]
+  },
+  {
+    "category": "DevOps & Cloud",
+    "icon": "☁️",
+    "skills": ["Docker", "GitHub Actions", "Git", "Azure (AZ-900)"]
+  }
+]

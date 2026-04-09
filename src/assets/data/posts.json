@@ -1,0 +1,29 @@
+[
+  {
+    "id": "clean-architecture-dotnet",
+    "title": "Clean Architecture na prática com .NET 8",
+    "summary": "Como estruturar um projeto .NET com Clean Architecture, separando responsabilidades e facilitando testes.",
+    "date": "2025-01-15",
+    "tags": ["C#", ".NET", "Clean Architecture", "Backend"],
+    "readTime": 8,
+    "file": "assets/posts/clean-architecture-dotnet.md"
+  },
+  {
+    "id": "jwt-aspnet-core",
+    "title": "Autenticação JWT do zero com ASP.NET Core",
+    "summary": "Implementando autenticação segura com JWT, refresh tokens e boas práticas de segurança em APIs .NET.",
+    "date": "2025-02-10",
+    "tags": ["C#", "ASP.NET Core", "JWT", "Segurança"],
+    "readTime": 10,
+    "file": "assets/posts/jwt-aspnet-core.md"
+  },
+  {
+    "id": "otimizacao-queries-sql",
+    "title": "Otimizando queries SQL que estavam matando o sistema",
+    "summary": "Casos reais de queries lentas, como diagnostiquei o problema e as soluções que reduziram o tempo de 8s para 200ms.",
+    "date": "2025-03-05",
+    "tags": ["SQL Server", "PostgreSQL", "Performance", "Backend"],
+    "readTime": 12,
+    "file": "assets/posts/otimizacao-queries-sql.md"
+  }
+]

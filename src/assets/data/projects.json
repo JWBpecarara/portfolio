@@ -1,0 +1,50 @@
+[
+  {
+    "id": "georreferenciado",
+    "title": "Sistema Georreferenciado Municipal",
+    "summary": "Sistema fullstack para gestão pública municipal com mapas interativos.",
+    "description": "Desenvolvimento e manutenção de sistema georreferenciado para prefeituras, com funcionalidades de gestão territorial, visualização de dados geoespaciais e integração com APIs externas. Atuação fullstack com foco em performance e estabilidade.",
+    "tech": ["C#", "ASP.NET Core", "PostgreSQL", "Vue.js", "Entity Framework"],
+    "highlights": [
+      "Integração com APIs de mapeamento geoespacial",
+      "Otimização de queries PostgreSQL com dados geográficos",
+      "Interface responsiva para uso em campo"
+    ],
+    "github": "",
+    "demo": "",
+    "image": "assets/images/geo.png",
+    "featured": true
+  },
+  {
+    "id": "api-laboratorial",
+    "title": "API RESTful para Integração Laboratorial",
+    "summary": "APIs seguras com criptografia AES-256 e autenticação JWT para sistemas laboratoriais.",
+    "description": "Desenvolvimento de APIs RESTful seguras para integração entre sistemas laboratoriais e plataformas externas. Implementação de criptografia HMAC-SHA256 e AES-256, autenticação via JWT e documentação Swagger completa.",
+    "tech": ["C#", "ASP.NET Core", "JWT", "AES-256", "Swagger", "SQL Server"],
+    "highlights": [
+      "Autenticação JWT com refresh token",
+      "Criptografia AES-256 e HMAC-SHA256",
+      "Documentação completa via Swagger / OpenAPI"
+    ],
+    "github": "",
+    "demo": "",
+    "image": "assets/images/api.png",
+    "featured": true
+  },
+  {
+    "id": "refatoracao-erp",
+    "title": "Refatoração de ERP Laboratorial",
+    "summary": "Modernização de sistema legado .NET Framework com foco em performance e estabilidade.",
+    "description": "Manutenção e refatoração de sistema legado crítico em .NET Framework 4.8 / WinForms. Otimização de queries SQL complexas, correção de bugs em telas críticas e redução significativa de chamados recorrentes em produção.",
+    "tech": [".NET Framework 4.8", "WinForms", "SQL Server", "C#"],
+    "highlights": [
+      "Redução de chamados recorrentes em produção",
+      "Otimização de queries SQL críticas",
+      "Refatoração sem quebrar funcionalidades existentes"
+    ],
+    "github": "",
+    "demo": "",
+    "image": "assets/images/erp.png",
+    "featured": false
+  }
+]
